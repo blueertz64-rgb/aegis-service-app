@@ -1,0 +1,18 @@
+{
+  "name": "AEGIS SERVICE",
+  "short_name": "AEGIS",
+  "description": "Application de gestion AEGIS SERVICE",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060606",
+  "theme_color": "#c9a44a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
